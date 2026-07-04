@@ -34,3 +34,8 @@ This repository serves as a code bank for various Machine Learning algorithms. I
 ---
 *Developed by Shweta Mishra.*
 
+
+
+### Repository Structure
+
+Each folder has its own README with details: [Classification](Classification/README.md), [Clustering-PCA](Clustering-PCA/README.md), [Datasets](Datasets/README.md), [Math-Foundations](Math-Foundations/README.md), [Misc-Practice](Misc-Practice/README.md), [Model-Tuning](Model-Tuning/README.md), [NLP](NLP/README.md), [Regression](Regression/README.md).
