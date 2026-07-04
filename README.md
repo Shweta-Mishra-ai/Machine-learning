@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-[Overview](#overview), [Topics Covered](#topics-covered), [Tech Stack](#tech-stack), [Repository Structure](#repository-structure), [Getting Started](#getting-started), [Demo and Screenshots](#demo-and-screenshots), [Creator](#creator), [Release and Status](#release-and-status).
+[Overview](#overview), [Topics Covered](#topics-covered), [Tech Stack](#tech-stack), [Repository Structure](#repository-structure), [Getting Started](#getting-started), [Creator](#creator), [Release and Status](#release-and-status).
 
 ## Overview
 
@@ -27,10 +27,6 @@ Each folder has its own README with details: [Classification](Classification/REA
 ## Getting Started
 
 Clone the repository, install the common dependencies with pip install numpy pandas scikit-learn matplotlib nltk jupyter, then launch Jupyter Notebook and open any notebook inside the topic folders to run it.
-
-## Demo and Screenshots
-
-Sample outputs and screenshots for individual notebooks are not embedded yet. You can preview a notebook's saved outputs directly on GitHub by opening it, since GitHub renders notebook outputs inline. Screenshots or short demo clips can be added here folder by folder as they are prepared.
 
 ## Creator
 
