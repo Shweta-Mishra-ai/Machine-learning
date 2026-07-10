@@ -1,7 +1,0 @@
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-
-sentiments=SentimentIntensityAnalyzer()
-print(sentiments.emojis)
-text = input("Enter the text:   ")
-score=sentiments.polarity_scores(text)
-print(score)

@@ -1,9 +1,0 @@
-a=[['harry',38],['berry',39],['cherry',39],['sherry',40]]
-res=[]
-for k,v in range(len(a)):
-    b=min(v)
-    print(b)
-    s = a.count(b)
-    for i in range(s):
-        k.sort(a)
-    print(a)

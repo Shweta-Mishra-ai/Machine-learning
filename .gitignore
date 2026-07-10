@@ -1,18 +1,76 @@
-diabetes/
-dummy_variable_file/
-breast_cancer_income_DTR/
-flash_vs_arrow_for_SLR/
-Intruder Alert/
-income_for_kmeans(1)/
-income_for_kmeans/
-hr_analytics/
-homeprices/
-home_pricesforSIMPLELINEARREGRESSION/
-Mall_Customers_HC/
-melbourne/
-Position_Salaries_poly/
-Restaurant_Reviews/
-spam/
-Weather_dataset_for_GNB/
-Weather_dataset_for_NB(1)/
-Weather_dataset_for_NB/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so they can be injected at build time.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / Coverage reports
+htmlcov/
+.tox/
+.nosetests
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+ENV/
+env.bak/
+venv.bak/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large Model Dumps & Persistence files
+*.pkl
+*.joblib
+*.h5
+*.onnx
+*.pb

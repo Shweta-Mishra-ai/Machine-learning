@@ -1,8 +1,0 @@
-a=int(input("enter number"))
-b=int(input("enter the power"))
-f = lambda x,y:x**y
-res=print(f(a,b))
-print(res)
-"""if b<0:
-    p=1/res
-    print(p)"""

@@ -1,0 +1,12 @@
+Homework Instructions: Simple Linear Regression
+
+      --ML HW FOR SIMPLE LINEAR REGRESSION--
+
+1. w.a.p. to calculate y-intercept and slope of a line and put it in a equation y=mx+b then find the predicted values by putting new values in x (your own logic) and find the accuracy of your data
+
+2. w.a.p. to find season viewers between THE FLASH AND ARROW and calculate who will get more viewers in next season
+
+dataset attached
+
+
+
